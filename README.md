@@ -13,4 +13,4 @@ RandomForestClassifier under sklearn.ensemble and DecisionTreeClassifier under s
 for score, k-fold cross-validation is udes, with k/cv = 10 for both classifiers
 
 
-Conclusion: RandomForestClassifier was found better than DecisionTreeClassifier
+Conclusion: RandomForestClassifier was found better than DecisionTreeClassifier.
